@@ -1,0 +1,12 @@
+{
+  "result": "PASS",
+  "source_tag": "android-1.0.3-5",
+  "version_name": "1.0.3",
+  "version_code": 5,
+  "official_apk_sha256": "fc7425a3833387859879111cdc688527dc68c9302c09bb6fdcb9ccc2fffac575",
+  "reconstructed_apk_sha256": "fc7425a3833387859879111cdc688527dc68c9302c09bb6fdcb9ccc2fffac575",
+  "unsigned_apk_sha256": "12fcd46c19aa422d95908b3402f0502f0b5c2736f25bf3691c032c248e75413a",
+  "signer_sha256": "b5d904e58514d32994281bc91a38869d40b25afbb83a9175b6d93dc239180ade",
+  "signature_verified": true,
+  "byte_identical": true
+}

@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "source_tag": "android-1.0.3-5",
+  "application_id": "de.manhunt.game",
+  "version_name": "1.0.3",
+  "version_code": 5,
+  "download_url": "https://in-the-zone.de/downloads/in-the-zone.apk",
+  "apk_sha256": "fc7425a3833387859879111cdc688527dc68c9302c09bb6fdcb9ccc2fffac575",
+  "signer_sha256": "b5d904e58514d32994281bc91a38869d40b25afbb83a9175b6d93dc239180ade"
+}

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">In the Zone</string>
+    <string name="title_activity_main">In the Zone</string>
+    <string name="package_name">de.manhunt.game</string>
+    <string name="custom_url_scheme">de.manhunt.game</string>
+</resources>

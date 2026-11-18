@@ -1,0 +1,15 @@
+.git
+node_modules
+android
+artifacts
+dist
+ios
+.env
+.env.*
+*.jks
+*.keystore
+
+*.pem
+*.key
+*.p12
+*.pfx

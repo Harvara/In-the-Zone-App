@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 90 100" fill="currentColor" role="img" aria-label="In the Zone">
+  <polygon data-part="diagonal" points="58,0 90,0 32,100 0,100"/>
+  <rect data-part="top" x="0" y="0" width="90" height="22"/>
+  <rect data-part="bottom" x="0" y="78" width="90" height="22"/>
+</svg>
